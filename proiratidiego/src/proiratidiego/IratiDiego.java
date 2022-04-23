@@ -12,7 +12,7 @@ public class IratiDiego {
 		
 		System.out.println("Cuarto commit priumer usuario");
 		
-		System.out.println("Conflicto 1 primer usuario");
+		System.out.println("Conflicto 2 segundo usuario");
 	}
 
 }
