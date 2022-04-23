@@ -7,6 +7,8 @@ public class IratiDiego {
 		System.out.println("Hola Mundo");
 		
 		System.out.println("Holaaa Mundo");	
+		
+		System.out.println("Buenas Tardes Mundo");
 	}
 
 }
